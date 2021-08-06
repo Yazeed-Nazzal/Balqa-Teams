@@ -33,7 +33,7 @@ a:hover {
 }
 
 .welcome-nav a {
-    color: #723BE4;
+    color: #00A650;
     text-decoration: none;
     font-style: italic;
     font-weight: 600;
@@ -43,7 +43,7 @@ a:hover {
 
 .welcome-nav a:hover {
     transition: 500ms;
-    text-shadow: 2px -1px 11px #723BE4;
+    text-shadow: 2px -1px 11px #00A650;
 }
 
 .welcome-nav .Logo-brand {
@@ -59,7 +59,7 @@ a:hover {
 /*Home Page */
 
 .Side-Menu {
-    background-color: #723BE4;
+    background-color: #00A650;
     width: 150px;
     height: 100vh;
     position: fixed;
@@ -142,10 +142,10 @@ a:hover {
 }
 
 .Main-body .shadow-row {
-    color: #723BE4;
+    color: #00A650;
     padding-top: 20px;
-    -webkit-box-shadow: 0px -3px 32px -9px #723BE4;
-    box-shadow: 0px -3px 32px -12px #723BE4;
+    -webkit-box-shadow: 0px -3px 32px -9px #00A650;
+    box-shadow: 0px -3px 32px -12px #00A650;
 }
 
 .Main-body .row .Page-Title {
@@ -160,7 +160,7 @@ a:hover {
 
 .home-page h1 {
     font-size: 50px;
-    color: #723BE4;
+    color: #00A650;
     font-style: italic;
     margin-top: 200px;
 }
@@ -194,7 +194,7 @@ a:hover {
 
 .Edit-Btn {
     color: white;
-    background-color: #723BE4;
+    background-color: #00A650;
 }
 
 .Edit-Btn:hover {
@@ -220,9 +220,9 @@ a:hover {
     border: none;
     background: transparent;
     width: 300px;
-    border-bottom: 2px solid #723BE4;
+    border-bottom: 2px solid #00A650;
     outline: none;
-    color: #723BE4;
+    color: #00A650;
     font-weight: 600;
 }
 
@@ -253,15 +253,15 @@ a:hover {
 }
 
 .Login .card-header {
-    background-color: #723BE4;
+    background-color: #00A650;
     color: white;
     font-weight: 700;
     font-style: italic;
 }
 
 .Login .card-body {
-    -webkit-box-shadow: 0px -3px 32px -9px #723BE4;
-    box-shadow: 0px -3px 32px -12px #723BE4;
+    -webkit-box-shadow: 0px -3px 32px -9px #00A650;
+    box-shadow: 0px -3px 32px -12px #00A650;
 }
 
 .Login .card {
@@ -279,8 +279,8 @@ a:hover {
 
 .Login .form-group .btn {
     background: transparent;
-    color: #723BE4;
-    border: 2px solid #723BE4;
+    color: #00A650;
+    border: 2px solid #00A650;
     font-weight: 400;
     font-style: italic;
 
@@ -289,7 +289,7 @@ a:hover {
 .Login .form-group .btn:hover {
     text-decoration: none;
     color: white;
-    background: #723BE4;
+    background: #00A650;
 
 }
 
@@ -394,8 +394,8 @@ a:hover {
 
 .Message-Box .content {
     height: 100%;
-    -webkit-box-shadow: 0px -3px 32px -9px #723BE4;
-    box-shadow: 0px -3px 13px -12px #723BE4;
+    -webkit-box-shadow: 0px -3px 32px -9px #00A650;
+    box-shadow: 0px -3px 13px -12px #00A650;
 }
 .content textarea
 {
@@ -517,13 +517,13 @@ a:hover {
     list-style: none;
 }
 .Team-Info .card-header {
-    background-color:#723BE4 ;
+    background-color:#00A650 ;
     color: white;
 }
 .Team-Info .card ul li
 {
     font-weight: 600;
-    color: #723BE4;
+    color: #00A650;
     font-size: 18px;
 }
 .Team-Info .card ul li span
@@ -534,7 +534,7 @@ a:hover {
 }
 .Team-Info i
 {
-    color: #723BE4;
+    color: #00A650;
     font-size: 70px;
 }
 /*Assignment*/
@@ -568,13 +568,13 @@ a:hover {
 .page-item.active .page-link
 {
     color: white;
-    background-color: #723BE4;
-    border-color: #723BE4;
+    background-color: #00A650;
+    border-color: #00A650;
 
 }
 .page-link
 {
-    color: #723BE4;
+    color: #00A650;
 }
 .page-link:focus
 {

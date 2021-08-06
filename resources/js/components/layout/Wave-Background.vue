@@ -57,7 +57,7 @@ name: "Wave-Background"
     overflow: hidden;
     height:100vh;
     bottom: -1px;
-    background-image: linear-gradient(to top, #723BE4 20%, #3366E9 80%);
+    background-image: linear-gradient(to top, #00A650 20%, #00C15D 80%);
 }
 .bgTop {
     z-index: 15;

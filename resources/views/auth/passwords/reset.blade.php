@@ -8,8 +8,8 @@
     left:0px;
     }
             .welcome-nav{
-            -webkit-box-shadow: 0px -3px 32px -9px #723BE4 !important ;
-            box-shadow: 0px -3px 32px -12px #723BE4 !important;
+            -webkit-box-shadow: 0px -3px 32px -9px #00A650 !important ;
+            box-shadow: 0px -3px 32px -12px #00A650 !important;
             margin-top: 0px !important;
 
     }

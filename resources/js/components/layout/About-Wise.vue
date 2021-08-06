@@ -32,7 +32,7 @@ export default {
 
 <style scoped>
 .About-Wise h1 {
-    color: #723BE4;
+    color: #00A650;
 }
 
 .About-img {

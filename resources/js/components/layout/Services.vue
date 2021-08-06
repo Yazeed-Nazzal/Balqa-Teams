@@ -40,7 +40,7 @@ export default {
 }
 
 .Services-com .container > h1, .Services-com h3 {
-    color: #723BE4;
+    color: #00A650;
 }
 
 .Services-com .container .row {
@@ -49,7 +49,7 @@ export default {
 
 .Services-com .container .row h1:first-of-type {
     font-size: 120px;
-    background: linear-gradient(-45deg, #3366E9, #723BE4, #3366E9, #723BE4);
+    background: linear-gradient(-45deg, #00C15D, #00A650, #00C15D, #00A650);
     background-size: 400% 400%;
     animation: gradient 7s linear infinite;
     -webkit-background-clip: text;

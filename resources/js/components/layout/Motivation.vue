@@ -50,7 +50,7 @@ export default {
 .Over-layer
 {
     position: absolute;
-    background-color: #723BE4;
+    background-color: #00A650;
     width: 100%;
     height: 100%;
     opacity: .5;

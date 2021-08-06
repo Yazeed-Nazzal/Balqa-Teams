@@ -15,8 +15,8 @@ name: "AnimatedLine"
 .Loader {
     width: 80px;
     height: 4px;
-    background: rgb(55,98,225);
-    background: radial-gradient(circle, rgba(55,98,225,1) 0%, rgba(119,57,221,1) 100%);
+    background: #00A650;
+    background: radial-gradient(circle, #00C15D ,  #00A650);
     margin: 10px auto;
     position: relative;
     margin-top: 20px;

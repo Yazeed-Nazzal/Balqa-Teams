@@ -6,7 +6,7 @@
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
-            <span class="navbar-toggler-icon"><i class="fas fa-bars" style="color:#723BE4 "></i></span>
+            <span class="navbar-toggler-icon"><i class="fas fa-bars" style="color:#00A650 "></i></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent" style="z-index: 1000000000">

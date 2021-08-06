@@ -88,7 +88,7 @@
                     </div>
                     <button class="btn Edit-Btn mt-4">Save Changes</button>
                 </form>
-                <p class="p-edit" style="padding-left: 20px; color: #723BE4; font-style: italic; margin-top: 50px;font-size: 16px">
+                <p class="p-edit" style="padding-left: 20px; color: #00A650; font-style: italic; margin-top: 50px;font-size: 16px">
                     <span type="button" class="" data-toggle="modal" data-target="#exampleModal">
                         Change Profile Picture!
                     </span>
