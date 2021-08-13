@@ -13,7 +13,7 @@
                 <div class="wave waveBottom" style="background-image: url('http://front-end-noobs.com/jecko/img/wave-bot.png')"></div>
             </div>
             <div class="Cover-Data text-center">
-                <h1>Wise Teams</h1>
+                <h1>Balqa Teams</h1>
                 <p class="mt-4">Simplified online Education and messaging across any device</p>
             </div>
         </div>

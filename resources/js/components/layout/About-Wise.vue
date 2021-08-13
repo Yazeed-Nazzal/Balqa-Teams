@@ -9,9 +9,9 @@
 
                 </div>
                 <div class="col-md-6 Info">
-                    <h1 class="text-center">About Wise Teams</h1>
+                    <h1 class="text-center">About Balqa Teams</h1>
                     <animated-line></animated-line>
-                    <p class="mt-4">"Wise Teams" or shorted by (WT), Online Learning and communication platform that oriented to Wise Students and instructors.
+                    <p class="mt-4">"Balqa Teams" or shorted by (BT), Online Learning and communication platform that oriented to Wise Students and instructors.
                         It Enables them to Stay in connection throughout the educational stages, including learning and evaluation of the educational process.
                     </p>
                 </div>
@@ -38,7 +38,7 @@ export default {
 .About-img {
     height: 400px;
     width: 90%;
-    background-image: url("http://127.0.0.1:8000/images/Logos/Main-Logo.png");
+    background-image: url("http://127.0.0.1:8000/images/Logos/logo.png");
     background-size: cover;
     background-position: bottom ;
     background-origin: border-box;
