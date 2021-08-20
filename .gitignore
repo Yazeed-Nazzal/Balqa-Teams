@@ -8,8 +8,7 @@
 Homestead.json
 Homestead.yaml
 npm-debug.log
-yarn-error.log
-/resources/views/pages/Profile/profile.blade.php
+yarn-error.logp
 /app/Http/Controllers/Teams/Assignments/UploadedAssignmentsController.php
 <<<<<<< HEAD
 .idea/php.xml
