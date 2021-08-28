@@ -21,7 +21,7 @@ class TeamJoinController extends Controller
     //Find a team that we interred  its name AND send its data to finding page
     public function finding(FindNewTeam $request)
     {
-        $teams = Team::where('name', $request->name)->get();
+        $teams = Team::where('name','like', "%".$request->name."%")->orWhere('id',$request->name)->get();
         if (count($teams)>0){
             return view('pages.Teams.find_teams', compact('teams'));
         }

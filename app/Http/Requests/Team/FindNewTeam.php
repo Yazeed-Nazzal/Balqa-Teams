@@ -24,7 +24,7 @@ class FindNewTeam extends FormRequest
     public function rules()
     {
         return [
-            'name'=>'required|max:30|min:2|string'
+            'name'=>'required|max:30|string'
         ];
     }
 }
