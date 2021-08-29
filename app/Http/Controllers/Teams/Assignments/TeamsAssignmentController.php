@@ -89,6 +89,10 @@ class TeamsAssignmentController extends Controller
     public function show(Team $id, Assignment $assignment)
     {
         $user = $assignment->users;
+        if ($id->manager_id == auth()->id()){
+            return view('pages.Teams.Assignments.assignment_for_member', compact('assignment', 'user'));
+
+        }
         foreach ($id->members as $member) {
             if ($member->id == auth()->id() || $id->manager_id == auth()->id()) {
                 return view('pages.Teams.Assignments.assignment_for_member', compact('assignment', 'user'));
