@@ -16,6 +16,12 @@
                 <h5>Point</h5>
                 <span>{{ $assignment->points }}</span>
             </div>
+                 @if(isset($assignment->users[0]->pivot->grade) )
+                    <div class="col-7">
+                        <h5>Your Point</h5>
+                        <span>{{$assignment->users[0]->pivot->grade}} / {{ $assignment->points }}</span>
+                    </div>
+                @endif
             <div class="col-7">
                 <h5>Duration </h5>
                 <span

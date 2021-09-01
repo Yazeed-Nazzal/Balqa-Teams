@@ -27,7 +27,7 @@ class AddNewMember extends FormRequest
     public function rules()
     {
         return [
-            'username'=>'required|max:10|min:10|string'
+            'username'=>'required|numeric'
         ];
     }
 }

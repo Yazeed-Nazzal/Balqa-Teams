@@ -61,7 +61,7 @@
                                     <label for="date" class="col-md-4 col-form-label text-md-right">Ending Date</label>
 
                                     <div class="col-md-6">
-                                        <input id="date" type="date"
+                                        <input id="date" type="datetime-local"
                                                class="form-control @error('date') is-invalid @enderror" name="date"
                                                value="{{ old('date') }}" required autocomplete="date" autofocus>
 

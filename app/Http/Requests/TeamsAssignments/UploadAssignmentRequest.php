@@ -24,7 +24,7 @@ class UploadAssignmentRequest extends FormRequest
     public function rules()
     {
         return [
-            'assignment' => ['file','mimes:doc,docx,ppt,pptx']
+            'assignment' => ['file']
         ];
     }
 }
